@@ -1,4 +1,4 @@
 # github-demo
 First github repo
 <br>
-Author - Satvik Prakash
+Author - Satvik Prakash Kaundinya
